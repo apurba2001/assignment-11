@@ -1,0 +1,28 @@
+.home-container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.player-btn{
+    margin: 10px;
+    height: 50px;
+    width: 200px;
+    border: none;
+    color: white;
+    background-color: rgb(33, 155, 255);
+    font-size: 20px;
+    border-radius: 5px;
+}
+.admin-btn{
+    margin: 10px;
+    height: 50px;
+    width: 200px;
+    border: none;
+    color: white;
+    background-color: rgb(40, 192, 78);
+    font-size: 20px;
+    border-radius: 5px;
+}
